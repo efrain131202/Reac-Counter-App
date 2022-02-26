@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactDom from 'react-dom';
+import PrimeraApp from './PrimeraApp'
 
-const saludo = <h1>Hola mundo </h1>;
+import './index.css';
+
 
 const divRoot = document.querySelector('#App');
 
