@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDom from 'react-dom';
-import PrimeraApp from './PrimeraApp'
+//import PrimeraApp from './PrimeraApp'
+import CounterApp from './CounterApp';
 
 import './index.css';
 
